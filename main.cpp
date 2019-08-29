@@ -28,10 +28,7 @@ Planes planelist;     //object for class Planes
 CrewMembers crewlist; //object for class CrewMembers
 Flights flightlist;   // object for class Flights
 
-void Test()
-{
-    cout << "testing this method";
-}
+
 int main()
 {
     string tail_number; //declaring and initialing the variables
