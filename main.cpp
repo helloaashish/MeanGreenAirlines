@@ -27,7 +27,11 @@ void FlightMenu();     //prints the menu options for working with Flights
 Planes planelist;     //object for class Planes
 CrewMembers crewlist; //object for class CrewMembers
 Flights flightlist;   // object for class Flights
-//Please do the
+
+void Test()
+{
+    cout << "testing this method";
+}
 int main()
 {
     string tail_number; //declaring and initialing the variables
